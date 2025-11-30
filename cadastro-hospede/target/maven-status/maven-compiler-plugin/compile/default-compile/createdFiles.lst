@@ -1,0 +1,7 @@
+br\com\hotel\cadastro\entity\Hospede.class
+br\com\hotel\cadastro\repository\HospedeRepository.class
+br\com\hotel\cadastro\interfaces\ICadastroHospede.class
+br\com\hotel\cadastro\boundary\CadastroMenu.class
+br\com\hotel\cadastro\controller\CadastroHospedeController.class
+br\com\hotel\cadastro\Main.class
+br\com\hotel\cadastro\utils\Validador.class

@@ -1,0 +1,11 @@
+br\com\hotel\financeiro\boundary\BoundaryPagamento.class
+br\com\hotel\financeiro\model\Avaliacao.class
+br\com\hotel\financeiro\model\CartaoCredito.class
+br\com\hotel\financeiro\control\ControlePagamento.class
+br\com\hotel\financeiro\service\ApiPagamentoSimulada.class
+br\com\hotel\financeiro\control\ControleServicos.class
+br\com\hotel\financeiro\model\Produto.class
+br\com\hotel\financeiro\Main.class
+br\com\hotel\financeiro\model\PagamentoStrategy.class
+br\com\hotel\financeiro\model\Servico.class
+br\com\hotel\financeiro\control\ControleProdutos.class

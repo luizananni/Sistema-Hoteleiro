@@ -1,0 +1,10 @@
+br\com\hotel\hospedagem\entity\Quarto.class
+br\com\hotel\hospedagem\entity\QuartoSuperior.class
+br\com\hotel\hospedagem\controller\ControleHospedagem.class
+br\com\hotel\hospedagem\entity\QuartoLuxo.class
+br\com\hotel\hospedagem\controller\RepositorioQuartos.class
+br\com\hotel\hospedagem\entity\Hospedagem.class
+br\com\hotel\hospedagem\boundary\BoundaryConsole.class
+br\com\hotel\hospedagem\entity\Quarto$Status.class
+br\com\hotel\hospedagem\Main.class
+br\com\hotel\hospedagem\entity\QuartoStandard.class
